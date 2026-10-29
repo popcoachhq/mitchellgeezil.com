@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Portfolio · Mitchell Geezil</title>
+<meta name="description" content="Work by Mitchell Geezil: Popcoach, a booking and payments marketplace for fitness coaches, live on the web and the App Store.">
+<meta property="og:title" content="Portfolio · Mitchell Geezil">
+<meta property="og:description" content="Popcoach: a booking and payments marketplace for fitness coaches, built from nothing to the App Store.">
+<meta property="og:image" content="https://mitchellgeezil.com/img/appstore-all-in-one.png">
+<meta property="og:url" content="https://mitchellgeezil.com/work/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%231F1B17'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-family='Georgia,serif' font-size='30' font-weight='600' fill='%23F6F2E9'%3EMG%3C/text%3E%3C/svg%3E">
+<link rel="apple-touch-icon" href="/img/mitchell.jpg">
+<link rel="canonical" href="https://mitchellgeezil.com/work/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="/style.css">
+<style>
+.projects{list-style:none;margin:0 0 8px;padding:0;display:grid;gap:8px}
+.projects a{text-decoration:none}
+.projects a:hover{text-decoration:underline}
+.projects .meta{color:var(--fg-2)}
+.case{margin-top:72px;padding-top:28px;border-top:1px solid var(--rule)}
+.case h2{font-size:1.6rem;margin:0 0 6px;scroll-margin-top:72px}
+.case .sub{color:var(--fg-2);margin:0 0 24px}
+.case h3{font-size:1.05rem;font-weight:600;margin:32px 0 8px}
+.facts{list-style:none;margin:0 0 20px;padding:0;display:grid;gap:6px}
+.facts li{display:grid;grid-template-columns:9em 1fr;gap:12px}
+.facts li span:first-child{color:var(--fg-2)}
+@media (max-width:480px){ .facts li{grid-template-columns:1fr} .facts li span:first-child{font-size:.9rem} }
+.back{margin-top:64px}
+</style>
+</head>
+<body>
+<div class="page">
+  <nav class="name"><a class="me" href="https://www.linkedin.com/in/mitchellgeezil/" target="_blank" rel="noopener">Mitchell Geezil</a><span class="links"><a href="/#what-i-do">What I do</a><a href="/#about">About me</a><a href="/work/">What I built</a><a href="/#contact">Contact me</a><a href="https://www.linkedin.com/in/mitchellgeezil/" target="_blank" rel="noopener">LinkedIn</a></span></nav>
+
+  <h1>Portfolio</h1>
+  <p class="lede">Things I've built, with the detail that doesn't fit on the front page.</p>
+
+  <ul class="projects">
+    <li><a href="#popcoach">Popcoach</a> <span class="meta">· booking and payments marketplace · web, iPhone, Android · 2026</span></li>
+  </ul>
+
+  <section class="case" id="popcoach">
+    <h2>Popcoach</h2>
+    <p class="sub">A marketplace for fitness coaches and the people who train with them. Founder, product owner and builder. Live on the web and the App Store, with Android on the way.</p>
+
+    <div class="shots">
+      <img src="/img/appstore-find-your-coach.png" alt="Popcoach App Store screenshot: Find your coach" width="414" height="900">
+      <img src="/img/appstore-verified-pros.png" alt="Popcoach App Store screenshot: Book verified pros" width="414" height="900">
+      <img src="/img/appstore-popups.png" alt="Popcoach App Store screenshot: Join pop-ups near you" width="414" height="900">
+      <img src="/img/appstore-next-class.png" alt="Popcoach App Store screenshot: Book your next class" width="414" height="900">
+      <img src="/img/appstore-learn.png" alt="Popcoach App Store screenshot: Learn anytime, at your pace" width="414" height="900">
+      <img src="/img/appstore-all-in-one.png" alt="Popcoach App Store screenshot: Your fitness, all in one place" width="414" height="900">
+    </div>
+
+    <ul class="facts">
+      <li><span>Role</span><span>Founder. Scoped it, designed it, built it, shipped it.</span></li>
+      <li><span>Platforms</span><span>Web app, native iPhone app, native Android app in development</span></li>
+      <li><span>Payments</span><span>Square card payments and Google Pay, refunds, coach payouts</span></li>
+      <li><span>Status</span><span>Web live. iPhone app released on the App Store Oct 20, 2026. Android in development.</span></li>
+      <li><span>Links</span><span><a href="https://popcoach.io" target="_blank" rel="noopener">popcoach.io</a> · <a href="https://apps.apple.com/app/id6759814275" target="_blank" rel="noopener">On the App Store</a></span></li>
+    </ul>
+
+    <h3>The problem</h3>
+    <p>Coaches run their business across Instagram DMs, Venmo, a scheduling link and a spreadsheet. Clients have no single place to find a vetted coach, book and pay safely. Both sides lose time, and the coach loses money every time a booking falls through the cracks.</p>
+
+    <h3>For clients</h3>
+    <p>Find verified coaches nearby, book one-on-one sessions, buy tickets to pop-up events and studio classes, take courses, message coaches, and keep every booking in one place with QR check-in and Apple Wallet passes.</p>
+
+    <h3>For coaches</h3>
+    <p>A public profile, scheduling and bookings, ticketed events, class schedules, courses built from their own documents, client records, messaging, and payments with refunds and payouts handled. The whole business runs from the phone.</p>
+
+    <h3>How it was built</h3>
+    <p>I ran it the way I ran enterprise rollouts, with AI coding tools doing the typing and a written rulebook deciding what ships. Every change goes through its own branch and a full automated test run before it can be merged. Money is handled in whole cents, with no silent fallbacks. Every write to a payment is made exactly once. Every table of customer data has access rules, checked before release. Nothing goes live without a written checklist.</p>
+
+    <h3>Under the hood</h3>
+    <p>Card and Google Pay payments through Square, full refunds, payouts tracked to the cent, row-level security on every table of customer data, and automated tests on every change before it ships. The iPhone app was built for Apple's review rules from day one: account deletion, in-app purchase restrictions, iPad support and privacy labels, and it passed.</p>
+  </section>
+
+  <p class="back"><a href="/">Back to the front page</a></p>
+</div>
+</body>
+</html>
