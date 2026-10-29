@@ -1,0 +1,22 @@
+/* Option B: the band. A darker paper band behind the opening, a round portrait with a ring, two-column offerings, green ink links. */
+:root{--accent:#2E5E4E;--band:#EDE7DA;--ring:#FFFFFF}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--accent:#8FC3AE;--band:#231F1B;--ring:#3A332D}}
+:root[data-theme="dark"]{--accent:#8FC3AE;--band:#231F1B;--ring:#3A332D}
+a{color:var(--accent)}
+.name a,.name a.me{color:var(--fg)}
+.name a:hover{color:var(--accent)}
+.bar{margin-bottom:0;border-bottom:0}
+.hero{position:relative;padding:48px 0 44px;margin-bottom:40px}
+.hero::before{content:"";position:absolute;inset:0 -100vw;background:var(--band);z-index:-1;border-bottom:1px solid var(--rule)}
+.hero-text .lede{margin-bottom:14px}
+.hero-text .lede+.lede{margin-bottom:0}
+.portrait{border-radius:50%;width:190px;height:190px;box-shadow:0 0 0 5px var(--ring),0 0 0 6px var(--rule);margin-top:4px}
+@media (max-width:560px){.portrait{width:128px;height:128px}}
+h1{font-size:clamp(2.5rem,7vw,3.6rem)}
+h2{font-size:1.45rem;margin:72px 0 16px;padding-bottom:10px;border-bottom:1px solid var(--rule)}
+.pencil::after{background:var(--accent)}
+.offers{grid-template-columns:1fr 1fr;gap:14px 28px}
+@media (max-width:560px){.offers{grid-template-columns:1fr}}
+.btn{background:var(--accent);color:#fff;border-radius:999px;padding:12px 22px}
+.form input,.form textarea{background:var(--band);border-color:transparent}
+.form input:focus,.form textarea:focus{outline-color:var(--accent);border-color:var(--accent)}
