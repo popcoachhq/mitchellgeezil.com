@@ -15,29 +15,44 @@
 <link rel="apple-touch-icon" href="/img/mitchell.jpg">
 <link rel="canonical" href="https://mitchellgeezil.com/work/">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
-<link rel="stylesheet" href="/style.css?v=3">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="/style.css?v=4">
 <style>
-.projects{list-style:none;margin:0 0 8px;padding:0;display:grid;gap:8px}
-.projects a{text-decoration:none}
-.projects a:hover{text-decoration:underline}
+.page.work{max-width:1120px}
+.work h1{font-size:clamp(2.6rem,6vw,4.4rem);font-weight:800;letter-spacing:-0.035em;line-height:1;margin:56px 0 18px}
+.work .lede{font-size:1.2rem;color:var(--fg-2);margin:0 0 28px}
+.projects{list-style:none;margin:0 0 8px;padding:0;display:grid;gap:8px;font-size:1.05rem}
+.projects a{text-decoration:none;font-weight:700}
+.projects a:hover{color:var(--accent)}
 .projects .meta{color:var(--fg-2)}
-.case{margin-top:72px;padding-top:28px;border-top:1px solid var(--rule)}
-.case h2{font-size:1.6rem;margin:0 0 6px;scroll-margin-top:72px}
-.case .sub{color:var(--fg-2);margin:0 0 24px}
-.case h3{font-size:1.05rem;font-weight:600;margin:32px 0 8px}
-.facts{list-style:none;margin:0 0 20px;padding:0;display:grid;gap:6px}
-.facts li{display:grid;grid-template-columns:9em 1fr;gap:12px}
-.facts li span:first-child{color:var(--fg-2)}
-@media (max-width:480px){ .facts li{grid-template-columns:1fr} .facts li span:first-child{font-size:.9rem} }
-.back{margin-top:64px}
+.case{margin-top:56px;padding-top:40px;border-top:1px solid var(--rule);display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px}
+.case>h2{font-size:clamp(1.8rem,3.4vw,2.6rem);font-weight:800;letter-spacing:-0.03em;line-height:1.05;margin:0;grid-column:1;position:sticky;top:96px;align-self:start}
+.case>*:not(h2){grid-column:2;min-width:0}
+.case .sub{color:var(--fg-2);margin:0 0 8px;font-size:1.1rem}
+.case h3{font-size:1.15rem;font-weight:700;margin:28px 0 8px;letter-spacing:-0.01em}
+.shots{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:8px 0 24px}
+.shots img{display:block;width:100%;max-width:100%;height:auto;border-radius:18px}
+.facts{list-style:none;margin:0 0 8px;padding:0;display:grid;gap:8px}
+.facts li{display:grid;grid-template-columns:9em 1fr;gap:12px;padding:8px 0;border-top:1px solid var(--rule)}
+.facts li:first-child{border-top:0}
+.facts li span:first-child{color:var(--fg-2);font-weight:600}
+.back{margin-top:56px}
+@media (max-width:760px){
+  .case{grid-template-columns:1fr;gap:14px;padding-top:28px}
+  .case>h2{position:static;font-size:1.8rem}
+  .case>*:not(h2){grid-column:1}
+  .work h1{font-size:2.6rem;margin-top:36px}
+  .facts li{grid-template-columns:1fr;gap:2px}
+  .shots{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+  .shots img{border-radius:10px}
+}
 </style>
 </head>
 <body>
 <header class="bar">
   <nav class="name"><a class="me" href="/">Mitchell Geezil</a><span class="links"><a href="/#what-i-do">What I do</a><a href="/#about">About me</a><a href="/work/">What I built</a><a href="/#contact">Contact me</a><a href="https://www.linkedin.com/in/mitchellgeezil/" target="_blank" rel="noopener">LinkedIn</a></span></nav>
 </header>
-<div class="page">
+<div class="page work">
 
   <h1>Portfolio</h1>
   <p class="lede">Things I've built, with the detail that doesn't fit on the front page.</p>
