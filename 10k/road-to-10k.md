@@ -25,9 +25,9 @@ Follow @mitchyinmotion to see if I make it.
 I gave Claude 90 days of my Instagram analytics and told it not to suggest content until it had told me what was actually broken. Here's what it found.
 
 1. **Reach was never the problem.** 1,967,078 views in 90 days from 797,000 different people, 78% of them people who don't follow me. Reels are 81% of it.
-2. **The leak is at the profile.** 48,081 people visited my profile in those 90 days. I needed 5,929 of them. If one in eight had followed, I'd already be at 10K.
+2. **The leak is at the profile.** 48,081 people visited my profile in those 90 days. I needed 5,929 of them. If one in eight had followed, I'd already be at 10K. The per-post numbers say it plainly: my biggest reel did 260,946 views and 386 follows. One flyer sent 1,818 people to my profile and 38 of them followed. Jessi's gated carousel turned 596 visits into 361 follows.
 3. **Why they leave.** People arrive from a Halloween joke, a gym reel, or my bunny, and land on a bio written for fitness coaches with a product video pinned. Nothing tells them what following gets them.
-4. **My carousels were the wrong carousels.** Photos of me with nothing to save. The ones that worked were useful or event-shaped: a Thanksgiving pilates flyer got 18K views and 4,000 shares. Business framed as personality works. Business framed as business doesn't.
+4. **My carousels were the wrong carousels.** Seven of my top eight carousels produced zero or one new follower each, and half their views came from people who already follow me. The one that worked was a Thanksgiving pilates flyer: 18K views, 4,000 shares, 1,818 profile visits. Business framed as personality works. Business framed as business doesn't.
 5. **Shares are my superpower.** The funny reels get 1,000 to 6,400 shares each. That's the reach engine, and it stays.
 
 ## The prompt
