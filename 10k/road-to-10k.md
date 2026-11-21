@@ -61,7 +61,8 @@ Newest day on top. Pace needed on Nov 20: 145 a day. Recalculated each day as (1
 
 | Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
 |---|---|---|---|---|---|---|
-| 0 | Nov 20 | 4,071 | | 145 | Nothing new yet. Plan written, folder set up. | Public profile: 2 to 3 posts a week, no gated posts yet, bio has no reason to follow. |
+| pre | Nov 21 | 4,068 | -3 | 148 | Fri evening: the quitting-corporate carousel (ungated, collab with @popcoachhq), 9 slides. | After 15 hours: 2,270 views, 96% from existing followers, 1 share, 2 saves, 21 profile visits, 0 follows. 88 likes, 7 comments. A personal-story carousel does not leave the follower bubble on its own; it needs shares, and nothing in it asked to be sent to someone. |
+| 0 | Nov 20 | 4,071 | | 145 | Nothing new yet. Plan written, folder set up, live page up at mitchellgeezil.com/10k, ManyChat PLAN automation live and tested. | Reels convert at 0.11%, the profile at 2 to 5% of visits, current carousels at roughly zero. The door is the first fix. |
 
 ## Why this number matters to me
 
