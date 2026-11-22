@@ -61,6 +61,7 @@ Newest day on top. Pace needed on Nov 20: 145 a day. Recalculated each day as (1
 
 | Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
 |---|---|---|---|---|---|---|
+| pre | Nov 22 | 4,073 | +5 | 152 | Nothing. Saturday off; Day 1 is Monday. | The carousel after 39 hours: 2,678 views, 93.5% from followers, 103 likes, 7 comments, 2 saves, 1 share, 23 profile visits, 0 follows. The account still gained 5 on a day with nothing new, so the old reels are doing the following. Instagram's own "most active times" chart puts followers online most at noon to 3pm, then 9am; Day 1 posts in that window. |
 | pre | Nov 21 | 4,068 | -3 | 148 | Fri evening: the quitting-corporate carousel (ungated, collab with @popcoachhq), 9 slides. | After 15 hours: 2,270 views, 96% from existing followers, 1 share, 2 saves, 21 profile visits, 0 follows. 88 likes, 7 comments. A personal-story carousel does not leave the follower bubble on its own; it needs shares, and nothing in it asked to be sent to someone. |
 | 0 | Nov 20 | 4,071 | | 145 | Nothing new yet. Plan written, folder set up, live page up at mitchellgeezil.com/10k, ManyChat PLAN automation live and tested. | Reels convert at 0.11%, the profile at 2 to 5% of visits, current carousels at roughly zero. The door is the first fix. |
 
