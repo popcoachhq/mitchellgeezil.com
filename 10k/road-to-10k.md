@@ -44,8 +44,6 @@ I gave Claude 90 days of my Instagram analytics and told it not to suggest anyth
 
 ## The prompt
 
-Jessi's, with my details. Screenshot your Insights first (90-day overview, views from followers vs non-followers, top posts by views, top posts by follows, your flops, your audience, your profile). Then paste this in with the screenshots.
-
 > You are the world's greatest social media strategist.
 > I want to hit 10,000 followers by December 31.
 > Here is my context: I'm a founder who quit corporate America and is building Popcoach, a fitness app for fitness entrepreneurs, with no team, no budget and no developers. The people I want in this audience are anyone who'll watch someone build something real out loud. What I actually care about is becoming a known creator and founder.
