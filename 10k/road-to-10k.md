@@ -68,6 +68,20 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 - **Collab tag everyone.** @popcoachhq on everything, and the people in the post.
 - **Share every number.** Right here, every morning.
 
+**The week**
+
+| Day | What goes out |
+|---|---|
+| Monday | Carousel (gated) + 2 trial reels |
+| Tuesday | 2 trial reels. Open slot for whatever pops into my head |
+| Wednesday | Carousel (gated) + 2 trial reels |
+| Thursday | 2 trial reels. Open slot |
+| Friday | Carousel (gated) + 2 trial reels |
+| Saturday | Best trial reel of the week goes to the main feed + 2 trial reels |
+| Sunday | Scoreboard post with the week's numbers + 3 trial reels |
+
+Carousels and feed posts go out between 3 and 6pm ET, when my followers are most active.
+
 ## Daily log
 
 Newest day on top. Each morning at 9am ET the previous day gets its row: the follower count that morning, what went out, what it did, and what I learned. Pace needed on Day 1 (Nov 23): 156 a day, recalculated each day as (10,000 minus followers) divided by days left.
