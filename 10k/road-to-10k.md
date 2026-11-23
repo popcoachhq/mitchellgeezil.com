@@ -8,7 +8,7 @@ Hi, I'm Mitch. In the 90 days before this started, 2 million people watched my r
 
 This page is everything I'm doing to get there: what the numbers said, the prompt I used, the plan, and a log of every day with the real numbers, flops included. It updates every morning at 9am ET. Save it and come back.
 
-Inspired by my friend Jessi Anderson (@jessianderson), who went from 4K to 16.5K this year doing exactly this and is going for 20K by December 1. Her live doc is the reason this one exists.
+Inspired by my friend Jessi Anderson (@jessianderson), who went from 4K to 16.5K this year doing exactly this and is going for 20K by December 1.
 
 Follow @mitchyinmotion to see if I make it.
 
