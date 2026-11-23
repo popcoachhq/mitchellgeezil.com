@@ -4,7 +4,7 @@ By Mitchell Geezil · Day 1 was November 23, 2026 · Updated every morning at 9a
 
 ## Start here
 
-Hi, I'm Mitch. In the 90 days before this started, 2 million people watched my reels. 1 in 1,000 followed. On Day 1 I had 4,077 followers. I've given myself until December 31 to hit 10,000.
+Hi, I'm Mitch. In the 90 days before this started my account got almost 2 million views from about 800,000 people, and 1 in every 1,000 of those views turned into a follower. On Day 1 I had 4,077 followers. I've given myself until December 31 to hit 10,000.
 
 This page is everything I'm doing to get there: what the numbers said, the prompt I used, the plan, and a log of every day with the real numbers, flops included. It updates every morning at 9am ET. Save it and come back.
 
@@ -16,18 +16,31 @@ Follow @mitchyinmotion to see if I make it.
 
 | When | Followers | What was happening |
 |---|---|---|
-| November 23, 2026 | 4,077 | Day 1. Almost 2 million views in the 90 days before, 48,000 profile visits, 1 in 1,000 followed. 38 days to go, about 156 a day. |
+| November 23, 2026 | 4,077 | Day 1. 5,923 to go in 38 days, about 156 a day. |
 | December 31, 2026 | 10,000 (goal) | |
+
+Where the account stood on Day 1 (Instagram Insights, August 25 to November 22):
+
+| | |
+|---|---|
+| Views | 1,969,197 (1,489,678 on reels) |
+| People reached | 796,825, 78% of them not following me |
+| Net new followers | +1,792 (from about 2,285 to 4,077) |
+| Profile visits | 48,194 |
+| Shares / saves / reposts | 27,928 / 6,642 / 962 |
+| Likes / comments | 72,884 / 2,571 |
+| Audience | 70% men, 73% in the US |
+| Followers most active | Monday, Sunday and Thursday, 3 to 6pm ET |
 
 ## What the numbers said
 
 I gave Claude 90 days of my Instagram analytics and told it not to suggest anything until it had told me what was actually broken. Here's what came back.
 
-1. **Reach was never the problem.** 1,969,197 views in 90 days from about 797,000 different people, 78% of them people who don't follow me. Reels are 80% of it.
-2. **1 in 1,000.** Net followers in those 90 days: +1,792. My three biggest reels (261K, 286K and 212K views) each turned about 1 in 1,000 viewers into a follower.
-3. **The reels where I'm actually me convert 5x better.** The viral sketches get shared 6,000 times and convert at 1 per 1,000. The reels where I'm a specific person, the bunny dad, the gym guy talking to the camera, convert at 2 to 5 per 1,000 on a fraction of the views. The jokes spread. The person converts.
-4. **Every carousel I posted was a photo dump.** Eight carousels, zero or one new follower each. None of them gave anyone a reason to save it, send it, or follow. The one exception was a Thanksgiving pilates flyer that got shared 4,000 times. I've never once posted the kind of carousel that actually converts.
-5. **The profile leaks.** 48,000 people visited my profile in 90 days. If 1 in 8 had followed, I'd be past 10K already. They arrive from a joke and land on a bio written for fitness coaches.
+1. **Reach was never the problem.** 1,969,197 views in 90 days from about 797,000 different people, 78% of them people who don't follow me. 1,489,678 of those views were reels.
+2. **1 in 1,000.** Net new followers in those 90 days: +1,792, from almost 2 million views. My three biggest reels ever (286K, 261K and 212K views) got 288, 391 and 211 follows: 1 to 1.5 per 1,000 views.
+3. **The reels where I'm actually me convert 5x better.** The viral sketches get shared 6,000 times and convert at 1 per 1,000. The reels where I'm a specific person convert far better on a fraction of the views: "douse yourself with chemicals before leaving the house" got 275 follows from 58,840 views (4.7 per 1,000), "home belongs to bunny" 59 from 26,252 (2.2 per 1,000). The jokes spread. The person converts.
+4. **Every carousel I posted was a photo dump.** Nine carousels in 90 days, seven of them with zero or one new follower. None of them gave anyone a reason to save it, send it, or follow. The one that worked was a Thanksgiving pilates flyer: 18,359 views, 4,045 shares, 1,825 profile visits, 38 follows. I've never once posted the kind of carousel that actually converts.
+5. **The profile leaks.** 48,194 people visited my profile in 90 days. If 1 in 8 had followed, I'd be past 10K already. They arrive from a joke and land on a bio written for fitness coaches.
 
 ## The prompt
 
@@ -56,7 +69,7 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 
 ## Daily log
 
-Newest day on top. Pace needed on Nov 20: 145 a day. Recalculated each day as (10,000 minus followers) divided by days left.
+Newest day on top. Pace needed on Day 1 (Nov 23): 156 a day. Recalculated each day as (10,000 minus followers) divided by days left. Rows marked "pre" are the days before Day 1.
 
 | Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
 |---|---|---|---|---|---|---|
