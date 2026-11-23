@@ -18,20 +18,13 @@ Here's what you can do here:
 2. Check the log below daily for updates (every morning at 9AM ET)
 3. Download all info here and use it for yourself!
 
-## The numbers
+## Insights Prior to Winter Arc
 
-**The bet**
+Instagram Insights for the 90 days before this started: August 25 to November 22, 2026.
 
 | | | |
 |---|---|---|
 | Followers on Day 1 | 4,077 | November 23, 2026 |
-| Goal | 10,000 | by December 31, 2026 |
-| To go | 5,923 | 38 days, about 156 a day |
-
-**Where the account stood on Day 1.** Instagram Insights for the 90 days before this started: August 25 to November 22, 2026.
-
-| | | |
-|---|---|---|
 | Views | 1,969,197 | 1.49 million of them on reels |
 | People reached | 796,825 | 78% not following me |
 | Net new followers | +1,792 | about 2,285 to 4,077 |
@@ -40,8 +33,6 @@ Here's what you can do here:
 | Saves | 6,642 | |
 | Likes | 72,884 | |
 | Comments | 2,571 | |
-| Audience | 70% men | 73% in the US |
-| Followers most active | 3 to 6pm ET | Monday, Sunday, Thursday |
 
 ## What the numbers said
 
