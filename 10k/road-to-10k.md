@@ -16,8 +16,7 @@ Follow @mitchyinmotion to see if I make it.
 
 | When | Followers | What was happening |
 |---|---|---|
-| November 20, 2026 | 4,071 | Day 0. Almost 2 million views in 90 days, 48,000 profile visits, and almost nobody followed. |
-| November 23, 2026 | 4,077 | Day 1. 38 days to go, about 156 a day. |
+| November 23, 2026 | 4,077 | Day 1. Almost 2 million views in the 90 days before, 48,000 profile visits, 1 in 1,000 followed. 38 days to go, about 156 a day. |
 | December 31, 2026 | 10,000 (goal) | |
 
 ## What the numbers said
