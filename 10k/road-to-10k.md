@@ -1,14 +1,14 @@
-# Road to 10K: how I'm getting @mitchyinmotion from 4,071 to 10,000 followers by December 31
+# Winter arc: instagrammaxxing @mitchyinmotion to 10K
 
-By Mitchell Geezil · Started November 23, 2026 · Updated every morning at 9am ET
+By Mitchell Geezil · Day 1 was November 23, 2026 · Updated every morning at 9am ET
 
 ## Start here
 
-Hi, I'm Mitch. On November 20 I had 4,071 followers and almost 2 million views in the previous 90 days. I've given myself until December 31 to hit 10,000.
+Hi, I'm Mitch. In the 90 days before this started, 2 million people watched my reels. 1 in 1,000 followed. On Day 1 I had 4,077 followers. I've given myself until December 31 to hit 10,000.
 
-This page is everything I'm doing to get there: the diagnosis, the prompt, the plan, and a log of every day with the real numbers, flops included. It updates every morning at 9am ET. Save it and come back.
+This page is everything I'm doing to get there: what the numbers said, the prompt I used, the plan, and a log of every day with the real numbers, flops included. It updates every morning at 9am ET. Save it and come back.
 
-I stole the whole approach from my friend Jessi Anderson (@jessianderson), who went from 4K to 16.5K this year and is going for 20K by December 1. Her live doc is the reason this one exists.
+Inspired by my friend Jessi Anderson (@jessianderson), who went from 4K to 16.5K this year doing exactly this and is going for 20K by December 1. Her live doc is the reason this one exists.
 
 Follow @mitchyinmotion to see if I make it.
 
@@ -16,19 +16,19 @@ Follow @mitchyinmotion to see if I make it.
 
 | When | Followers | What was happening |
 |---|---|---|
-| November 20, 2026 | 4,071 | Day 0. Almost 2 million views in 90 days, 48,081 profile visits, and almost nobody followed. |
-| November 23, 2026 | | Day 1 of the challenge. |
-| December 31, 2026 | 10,000 (goal) | 5,929 to go from Day 0. About 152 a day. |
+| November 20, 2026 | 4,071 | Day 0. Almost 2 million views in 90 days, 48,000 profile visits, and almost nobody followed. |
+| November 23, 2026 | 4,077 | Day 1. 38 days to go, about 156 a day. |
+| December 31, 2026 | 10,000 (goal) | |
 
-## What the diagnosis found
+## What the numbers said
 
-I gave Claude 90 days of my Instagram analytics and told it not to suggest content until it had told me what was actually broken. Here's what it found.
+I gave Claude 90 days of my Instagram analytics and told it not to suggest anything until it had told me what was actually broken. Here's what came back.
 
-1. **Reach was never the problem.** 1,967,078 views in 90 days from 797,000 different people, 78% of them people who don't follow me. Reels are 81% of it.
-2. **The leak is at the profile.** 48,081 people visited my profile in those 90 days. I needed 5,929 of them. If one in eight had followed, I'd already be at 10K. The per-post numbers say it plainly: my biggest reel did 260,946 views and 386 follows. One flyer sent 1,818 people to my profile and 38 of them followed. Jessi's gated carousel turned 596 visits into 361 follows.
-3. **Why they leave.** People arrive from a Halloween joke, a gym reel, or my bunny, and land on a bio written for fitness coaches with a product video pinned. Nothing tells them what following gets them.
-4. **My carousels were the wrong carousels.** Seven of my top eight carousels produced zero or one new follower each, and half their views came from people who already follow me. The one that worked was a Thanksgiving pilates flyer: 18K views, 4,000 shares, 1,818 profile visits. Business framed as personality works. Business framed as business doesn't.
-5. **Shares are my superpower.** The funny reels get 1,000 to 6,400 shares each. That's the reach engine, and it stays.
+1. **Reach was never the problem.** 1,969,197 views in 90 days from about 797,000 different people, 78% of them people who don't follow me. Reels are 80% of it.
+2. **1 in 1,000.** Net followers in those 90 days: +1,792. My three biggest reels (261K, 286K and 212K views) each turned about 1 in 1,000 viewers into a follower.
+3. **The reels where I'm actually me convert 5x better.** The viral sketches get shared 6,000 times and convert at 1 per 1,000. The reels where I'm a specific person, the bunny dad, the gym guy talking to the camera, convert at 2 to 5 per 1,000 on a fraction of the views. The jokes spread. The person converts.
+4. **Every carousel I posted was a photo dump.** Eight carousels, zero or one new follower each. None of them gave anyone a reason to save it, send it, or follow. The one exception was a Thanksgiving pilates flyer that got shared 4,000 times. I've never once posted the kind of carousel that actually converts.
+5. **The profile leaks.** 48,000 people visited my profile in 90 days. If 1 in 8 had followed, I'd be past 10K already. They arrive from a joke and land on a bio written for fitness coaches.
 
 ## The prompt
 
@@ -46,12 +46,12 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 
 ## The plan
 
-39 days, about 152 new followers a day, no ads, no team.
+38 days, about 156 new followers a day, no ads, no team.
 
-- **Fix the door first.** New bio, new pinned posts, highlights that match what brings people in, and a pinned comment on every post.
-- **Three carousels a week built to be saved.** Mondays, Wednesdays and Fridays. Four lanes: the gym, building an app with AI and no developers, hot takes and lists, and my bunny. Each one is free, useful, and gated behind a keyword so I can send it to you in your DMs.
-- **Trial reels every day.** Two or three, from footage I already have, with a text hook. They only go to people who don't follow me, so they're my testing ground. Anything past about 3,000 views gets reposted to the feed.
-- **Tuesdays and Thursdays are open.** Whatever popped into my head. Some of my best posts were accidents.
+- **3 carousels a week, every one built to be saved or sent.** Mondays, Wednesdays and Fridays. Four lanes: the gym, building an app with AI and no developers, hot takes and lists, and my bunny. Each one is free and gated behind a keyword so I can send it to you in your DMs. Comment WINTER ARC on anything and you get this page.
+- **15 trial reels a week.** From footage I already have, with a text hook. Trial reels only go to people who don't follow me, so they're the testing ground. The best one each week goes to the feed.
+- **More me, less bit.** The numbers say the reels where I'm a specific person are the ones people follow. So the carousel photos and the reels show the actual guy.
+- **Fix the door.** New bio, new pinned posts, highlights that match what brings people in, a pinned comment on every post.
 - **Collab tag everyone.** @popcoachhq on everything, and the people in the post. One collab with Jessi.
 - **Share every number.** Right here, every morning.
 
@@ -61,14 +61,16 @@ Newest day on top. Pace needed on Nov 20: 145 a day. Recalculated each day as (1
 
 | Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
 |---|---|---|---|---|---|---|
-| 1 | Nov 23 | 4,076 | +3 | 156 | Nothing Sunday. Day 1 carousel (gated, keyword PLAN) goes out today, noon to 3pm. | The Friday carousel is finished: 2,911 views, 92% followers, 1 share, 3 saves, 25 profile visits, 0 follows. The 7-day window is cooling (views 137,823 to 123,024, profile visits 3,447 to 2,707) because the last reel that travelled was Nov 1; the +3 and +5 are the tail of old reels. Strangers come from reels (67% of this week's views are non-followers, nearly all on reels), so the trial reels have to run alongside the carousels, not after them. |
+| 1 | Nov 23 | 4,077 | +4 | 156 | Nothing Sunday. Day 1 carousel "winter arc instagrammaxxing to 10K" (5 slides, gated, keyword WINTER ARC) goes out today, 3 to 6pm. | The Friday carousel is finished: 2,911 views, 92% followers, 1 share, 3 saves, 25 profile visits, 0 follows. The 7-day window is cooling (views 137,823 to 123,024, profile visits 3,447 to 2,707) because the last reel that travelled was Nov 1; the +3 and +5 are the tail of old reels. Strangers come from reels (67% of this week's views are non-followers, nearly all on reels), so the trial reels have to run alongside the carousels, not after them. |
 | pre | Nov 22 | 4,073 | +5 | 152 | Nothing. Saturday off; Day 1 is Monday. | The carousel after 39 hours: 2,678 views, 93.5% from followers, 103 likes, 7 comments, 2 saves, 1 share, 23 profile visits, 0 follows. The account still gained 5 on a day with nothing new, so the old reels are doing the following. Instagram's own "most active times" chart puts followers online most at noon to 3pm, then 9am; Day 1 posts in that window. |
 | pre | Nov 21 | 4,068 | -3 | 148 | Fri evening: the quitting-corporate carousel (ungated, collab with @popcoachhq), 9 slides. | After 15 hours: 2,270 views, 96% from existing followers, 1 share, 2 saves, 21 profile visits, 0 follows. 88 likes, 7 comments. A personal-story carousel does not leave the follower bubble on its own; it needs shares, and nothing in it asked to be sent to someone. |
 | 0 | Nov 20 | 4,071 | | 145 | Nothing new yet. Plan written, folder set up, live page up at mitchellgeezil.com/10k, ManyChat PLAN automation live and tested. | Reels convert at 0.11%, the profile at 2 to 5% of visits, current carousels at roughly zero. The door is the first fix. |
 
-## Why this number matters to me
+## Why?
 
-I quit corporate America because I couldn't do it anymore. Not burnout exactly. I just knew I was never going to be happy building someone else's thing.
+Because I believe in the company I'm building. I believe there's a real need for a fitness and wellness marketplace. I believe there's no better platform for distribution than Instagram. And most importantly, I believe in myself.
+
+The longer version: I quit corporate America because I couldn't do it anymore. Not burnout exactly. I just knew I was never going to be happy building someone else's thing.
 
 Around the same time I fell hard for group fitness. The classes, the coaches, the community. I'd never been that happy in a room full of people. And I kept noticing the same thing: the coaches running those rooms were doing it with five apps, a Venmo and a spreadsheet.
 
