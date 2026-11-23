@@ -62,7 +62,7 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 
 38 days, about 156 new followers a day, no ads, no team.
 
-- **3 carousels a week, every one built to be saved or sent.** Mondays, Wednesdays and Fridays. Four lanes: the gym, building an app with AI and no developers, hot takes and lists, and my bunny. Each one is free and gated behind a keyword so I can send it to you in your DMs. Comment WINTER ARC on anything and you get this page.
+- **3 carousels a week, every one built to be saved or sent.** Mondays, Wednesdays and Fridays. Four lanes: the gym, building an app with AI and no developers, hot takes and lists, and my bunny. Each one is free. Comment WINTER ARC on anything and I'll send you this page in your DMs.
 - **15 trial reels a week.** From footage I already have, with a text hook. Trial reels only go to people who don't follow me, they're great for testing different content formats. The best reels get posted to my main feed.
 - **Fix the door.** New bio, new pinned posts, highlights that match what brings people in, a pinned comment on every post.
 - **Collab tag everyone.** @popcoachhq on everything, and the people in the post.
@@ -72,11 +72,11 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 
 | Day | What goes out |
 |---|---|
-| Monday | Carousel (gated) + 2 trial reels |
+| Monday | Carousel + 2 trial reels |
 | Tuesday | 2 trial reels. Open slot for whatever pops into my head |
-| Wednesday | Carousel (gated) + 2 trial reels |
+| Wednesday | Carousel + 2 trial reels |
 | Thursday | 2 trial reels. Open slot |
-| Friday | Carousel (gated) + 2 trial reels |
+| Friday | Carousel + 2 trial reels |
 | Saturday | Best trial reel of the week goes to the main feed + 2 trial reels |
 | Sunday | Scoreboard post with the week's numbers + 3 trial reels |
 
