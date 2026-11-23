@@ -63,10 +63,9 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 38 days, about 156 new followers a day, no ads, no team.
 
 - **3 carousels a week, every one built to be saved or sent.** Mondays, Wednesdays and Fridays. Four lanes: the gym, building an app with AI and no developers, hot takes and lists, and my bunny. Each one is free and gated behind a keyword so I can send it to you in your DMs. Comment WINTER ARC on anything and you get this page.
-- **15 trial reels a week.** From footage I already have, with a text hook. Trial reels only go to people who don't follow me, so they're the testing ground. The best one each week goes to the feed.
-- **More me, less bit.** The numbers say the reels where I'm a specific person are the ones people follow. So the carousel photos and the reels show the actual guy.
+- **15 trial reels a week.** From footage I already have, with a text hook. Trial reels only go to people who don't follow me, they're great for testing different content formats. The best reels get posted to my main feed.
 - **Fix the door.** New bio, new pinned posts, highlights that match what brings people in, a pinned comment on every post.
-- **Collab tag everyone.** @popcoachhq on everything, and the people in the post. One collab with Jessi.
+- **Collab tag everyone.** @popcoachhq on everything, and the people in the post.
 - **Share every number.** Right here, every morning.
 
 ## Daily log
