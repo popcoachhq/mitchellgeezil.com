@@ -4,13 +4,19 @@ By Mitchell Geezil · Day 1 was November 23, 2026 · Updated every morning at 9a
 
 ## Start here
 
-Hi, I'm Mitch (or Mitchy or Mitchell idc).
+Hi, I'm Mitch (or Mitchy or Mitchell idc). THANK YOU FOR BEING HERE!
 
-This page is everything I'm doing to get there: what the numbers said, the prompt I used, the plan, and a log of every day with the real numbers, flops included. It updates every morning at 9am ET. Save it and come back.
+TLDR: I want to hit 10K followers by EOY, to grow my personal brand and business, and I'm using this page to track and document the process.
 
-Inspired by my friend Jessi Anderson (@jessianderson), who went from 4K to 16.5K this year doing exactly this and is going for 20K by December 1.
+It updates every morning at 9am ET. Save it and come back.
 
-Follow @mitchyinmotion to see if I make it.
+Inspired by my friend Jessi Anderson (@jessianderson), who went from 4K to 16.5K this year. Now she's going for 20K. I HAVE TO TRY TOO?????
+
+Here's what you can do here:
+
+1. FOLLOW ME @mitchyinmotion
+2. Check the log below daily for updates (every morning at 9AM ET)
+3. Download all info here and use it for yourself!
 
 ## The numbers
 
