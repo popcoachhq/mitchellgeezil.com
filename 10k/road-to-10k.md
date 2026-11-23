@@ -4,7 +4,7 @@ By Mitchell Geezil · Day 1 was November 23, 2026 · Updated every morning at 9a
 
 ## Start here
 
-Hi, I'm Mitch. In the 90 days before this started my account got almost 2 million views from about 800,000 people, and 1 in every 1,000 of those views turned into a follower. On Day 1 I had 4,077 followers. I've given myself until December 31 to hit 10,000.
+Hi, I'm Mitch (or Mitchy or Mitchell idc).
 
 This page is everything I'm doing to get there: what the numbers said, the prompt I used, the plan, and a log of every day with the real numbers, flops included. It updates every morning at 9am ET. Save it and come back.
 
