@@ -20,23 +20,28 @@ Here's what you can do here:
 
 ## The numbers
 
-| When | Followers | What was happening |
+**The bet**
+
+| | | |
 |---|---|---|
-| November 23, 2026 | 4,077 | Day 1. 5,923 to go in 38 days, about 156 a day. |
-| December 31, 2026 | 10,000 (goal) | |
+| Followers on Day 1 | 4,077 | November 23, 2026 |
+| Goal | 10,000 | by December 31, 2026 |
+| To go | 5,923 | 38 days, about 156 a day |
 
-Where the account stood on Day 1 (Instagram Insights, August 25 to November 22):
+**Where the account stood on Day 1.** Instagram Insights for the 90 days before this started: August 25 to November 22, 2026.
 
-| | |
-|---|---|
-| Views | 1,969,197 (1,489,678 on reels) |
-| People reached | 796,825, 78% of them not following me |
-| Net new followers | +1,792 (from about 2,285 to 4,077) |
-| Profile visits | 48,194 |
-| Shares / saves / reposts | 27,928 / 6,642 / 962 |
-| Likes / comments | 72,884 / 2,571 |
-| Audience | 70% men, 73% in the US |
-| Followers most active | Monday, Sunday and Thursday, 3 to 6pm ET |
+| | | |
+|---|---|---|
+| Views | 1,969,197 | 1.49 million of them on reels |
+| People reached | 796,825 | 78% not following me |
+| Net new followers | +1,792 | about 2,285 to 4,077 |
+| Profile visits | 48,194 | 1 in 27 followed |
+| Shares | 27,928 | |
+| Saves | 6,642 | |
+| Likes | 72,884 | |
+| Comments | 2,571 | |
+| Audience | 70% men | 73% in the US |
+| Followers most active | 3 to 6pm ET | Monday, Sunday, Thursday |
 
 ## What the numbers said
 
