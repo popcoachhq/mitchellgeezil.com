@@ -44,11 +44,9 @@ I gave Claude 90 days of my Instagram analytics and told it not to suggest anyth
 4. **Every carousel I posted was a photo dump.** Nine carousels in 90 days, seven of them with zero or one new follower. None of them gave anyone a reason to save it, send it, or follow. The one that worked was a Thanksgiving pilates flyer: 18,359 views, 4,045 shares, 1,825 profile visits, 38 follows. I've never once posted the kind of carousel that actually converts.
 5. **The profile leaks.** 48,194 people visited my profile in 90 days. If 1 in 8 had followed, I'd be past 10K already. They arrive from a joke and land on a bio written for fitness coaches.
 
-## The prompt (if you want to do this yourself)
+## The prompt
 
-I didn't run one magic prompt. Here's what actually happened: I gave Claude Jessi's playbook and asked it to analyze it and help me do the same thing. Then I let Claude take control of my computer. It opened my Instagram in Chrome, went through 90 days of Insights and every top post's numbers itself, and wrote it all up. The parts Instagram only shows in the app (reels sorted by follows, trial reels, audience, follower growth) I screenshotted on my phone and sent over. Then we talked through what I actually want before any content was planned.
-
-If you want the shortcut, this is Jessi's prompt with my details swapped in. Change them to yours, screenshot your Insights (90-day overview, views from followers vs non-followers, top posts by views, top posts by follows, your flops, your audience, your profile), and paste it in with the screenshots.
+I also had Claude take control of my computer, open my Instagram and pull the Insights itself.
 
 > You are the world's greatest social media strategist.
 > I want to hit 10,000 followers by December 31.
