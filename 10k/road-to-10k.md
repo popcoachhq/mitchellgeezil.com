@@ -62,20 +62,6 @@ I gave Claude 90 days of my Instagram analytics and told it not to suggest anyth
 4. **Every carousel I posted was a photo dump.** Nine carousels in 90 days, seven of them with zero or one new follower. None of them gave anyone a reason to save it, send it, or follow. The one that worked was a Thanksgiving pilates flyer: 18,359 views, 4,045 shares, 1,825 profile visits, 38 follows. I've never once posted the kind of carousel that actually converts.
 5. **The profile leaks.** 48,194 people visited my profile in 90 days. If 1 in 8 had followed, I'd be past 10K already. They arrive from a joke and land on a bio written for fitness coaches.
 
-## The prompt
-
-I also had Claude take control of my computer, open my Instagram and pull the Insights itself.
-
-> You are the world's greatest social media strategist.
-> I want to hit 10,000 followers by December 31.
-> Here is my context: I'm a founder who quit corporate America and is building Popcoach, a fitness app for fitness entrepreneurs, with no team, no budget and no developers. The people I want in this audience are anyone who'll watch someone build something real out loud. What I actually care about is becoming a known creator and founder.
-> I am attaching 90 days of analytics, my top posts by views, my top posts by follows, my worst performers, and a screenshot of my profile.
-> Do not suggest content yet. First go through the data and tell me what is actually working, what is not, and what is broken that I cannot see from the inside.
-> Be honest with me even if the news is bad.
-> Then tell me exactly what to post next and why.
-
-The two lines that matter are "do not suggest content yet" and "be honest with me even if the news is bad." Then keep using the same chat. Mine knows my numbers now.
-
 ## The plan
 
 38 days, about 156 new followers a day, no ads, no team.
@@ -99,6 +85,20 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 | Sunday | Scoreboard post with the week's numbers + 3 trial reels |
 
 Carousels and feed posts go out between 3 and 6pm ET, when my followers are most active.
+
+## The prompt
+
+I also had Claude take control of my computer, open my Instagram and pull the Insights itself.
+
+> You are the world's greatest social media strategist.
+> I want to hit 10,000 followers by December 31.
+> Here is my context: I'm a founder who quit corporate America and is building Popcoach, a fitness app for fitness entrepreneurs, with no team, no budget and no developers. The people I want in this audience are anyone who'll watch someone build something real out loud. What I actually care about is becoming a known creator and founder.
+> I am attaching 90 days of analytics, my top posts by views, my top posts by follows, my worst performers, and a screenshot of my profile.
+> Do not suggest content yet. First go through the data and tell me what is actually working, what is not, and what is broken that I cannot see from the inside.
+> Be honest with me even if the news is bad.
+> Then tell me exactly what to post next and why.
+
+The two lines that matter are "do not suggest content yet" and "be honest with me even if the news is bad." Then keep using the same chat. Mine knows my numbers now.
 
 ## Daily log
 
