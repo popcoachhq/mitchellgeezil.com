@@ -82,14 +82,6 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 
 Carousels and feed posts go out between 3 and 6pm ET, when my followers are most active.
 
-## Daily log
-
-Newest day on top. Each morning at 9am ET the previous day gets its row: the follower count that morning, what went out, what it did, and what I learned. Pace needed on Day 1 (Nov 23): 156 a day, recalculated each day as (10,000 minus followers) divided by days left.
-
-| Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
-|---|---|---|---|---|---|---|
-| 1 | Mon Nov 23 | 4,081 | +4 | 160 | [Carousel](https://www.instagram.com/p/DgGKlHwoFeu/) (5 slides, keyword WINTER ARC); 2 trial reels (7 s): [reel 1, challenge hook](https://www.instagram.com/reel/DgGRdWlRxcU/), [reel 2, stat hook](https://www.instagram.com/reel/DgGrMkWxYnB/) | Carousel: 2,136 views, 97% from followers, 34 comments (about 8 said winter arc), 64 likes, 0 saves, 0 shares, 1 follow. Reel 1: 195 views, 2 saves, 1 follow. Reel 2: 131 views, 2 likes, 0 follows. ManyChat 3 to 10 sends, 9 clicks. The carousel never reached strangers because Instagram shows a feed post to followers first and only pushes it wider when people save or share it. Nobody did, because it was an announcement about me. Friends comment on an announcement; a stranger has no reason to keep it. Comments from people who already follow don't earn new reach. The trial reels went to strangers only, as trial reels do, and Instagram seeds them to a few hundred people before deciding whether to widen. Both stalled there, which means the first seconds didn't earn watch-through or shares. Likely why: the hook asks a stranger to care about my follower count and to read the caption, and a stranger doesn't know who I am or why 10K matters. The offer (my tracker) is for people who already care. Two follows from about 2,500 views is the same 1 in 1,000 rate I started with, so Day 1 changed nothing about conversion yet. Change for Wednesday: the carousel has to be something a stranger wants to save (a template, a checklist, numbers they'd use), with me as the proof, not the subject. Trial reel hooks need to give the viewer something in the first line, not announce my challenge. |
-
 ## Why?
 
 Because I believe in the company I'm building. I believe there's a real need for a fitness and wellness marketplace. I believe there's no better platform for distribution than Instagram. And most importantly, I believe in myself.
@@ -107,3 +99,11 @@ I'm building it with no team, no budget, and no developers. Just me.
 This is me proving I can build something on my own. 10,000 followers by December 31. Every coach and user has discovered Popcoach through my personal Instagram and I'm ready to scale.
 
 If you're a fitness or wellness professional running your own business, popcoach.io is for you. And if you're a consumer looking for fitness and wellness experiences, we've got you covered too. And if you're here for the growth stuff, please follow along too @mitchyinmotion!
+
+## Daily log
+
+Newest day on top. Each morning at 9am ET the previous day gets its row: the follower count that morning, what went out, what it did, and what I learned. Pace needed on Day 1 (Nov 23): 156 a day, recalculated each day as (10,000 minus followers) divided by days left.
+
+| Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
+|---|---|---|---|---|---|---|
+| 1 | Mon Nov 23 | 4,081 | +4 | 160 | [Carousel](https://www.instagram.com/p/DgGKlHwoFeu/) (5 slides, keyword WINTER ARC); 2 trial reels (7 s): [reel 1, challenge hook](https://www.instagram.com/reel/DgGRdWlRxcU/), [reel 2, stat hook](https://www.instagram.com/reel/DgGrMkWxYnB/) | Carousel: 2,136 views, 97% from followers, 34 comments (about 8 said winter arc), 64 likes, 0 saves, 0 shares, 1 follow. Reel 1: 195 views, 2 saves, 1 follow. Reel 2: 131 views, 2 likes, 0 follows. ManyChat 3 to 10 sends, 9 clicks. The carousel never reached strangers because Instagram shows a feed post to followers first and only pushes it wider when people save or share it. Nobody did, because it was an announcement about me. Friends comment on an announcement; a stranger has no reason to keep it. Comments from people who already follow don't earn new reach. The trial reels went to strangers only, as trial reels do, and Instagram seeds them to a few hundred people before deciding whether to widen. Both stalled there, which means the first seconds didn't earn watch-through or shares. Likely why: the hook asks a stranger to care about my follower count and to read the caption, and a stranger doesn't know who I am or why 10K matters. The offer (my tracker) is for people who already care. Two follows from about 2,500 views is the same 1 in 1,000 rate I started with, so Day 1 changed nothing about conversion yet. Change for Wednesday: the carousel has to be something a stranger wants to save (a template, a checklist, numbers they'd use), with me as the proof, not the subject. Trial reel hooks need to give the viewer something in the first line, not announce my challenge. |
