@@ -18,6 +18,24 @@ Here's what you can do here:
 2. Check the log below daily for updates (every morning at 9AM ET)
 3. Download all info here and use it for yourself!
 
+## Why?
+
+Because I believe in the company I'm building. I believe there's a real need for a fitness and wellness marketplace. I believe there's no better platform for distribution than Instagram. And most importantly, I believe in myself.
+
+The longer version: I quit corporate America because I couldn't do it anymore. Not burnout exactly. I just knew I was never going to be happy building someone else's thing.
+
+Around the same time I fell hard for group fitness. The classes, the coaches, the community. I'd never been that happy in a room full of people. Especially post-COVID era.
+
+I have an IT background. I love tech. I kept looking for the thing that sat in the middle of both, and there wasn't one.
+
+Popcoach is an all-in-one solution for fitness and wellness entrepreneurs. Bookings, payments, clients, events. It's also the only consumer-facing fitness marketplace that exists to help people discover and book verified professionals.
+
+I'm building it with no team, no budget, and no developers. Just me.
+
+This is me proving I can build something on my own. 10,000 followers by December 31. Every coach and user has discovered Popcoach through my personal Instagram and I'm ready to scale.
+
+If you're a fitness or wellness professional running your own business, popcoach.io is for you. And if you're a consumer looking for fitness and wellness experiences, we've got you covered too. And if you're here for the growth stuff, please follow along too @mitchyinmotion!
+
 ## Insights Prior to Winter Arc
 
 Instagram Insights for the 90 days before this started: August 25 to November 22, 2026.
@@ -81,24 +99,6 @@ The two lines that matter are "do not suggest content yet" and "be honest with m
 | Sunday | Scoreboard post with the week's numbers + 3 trial reels |
 
 Carousels and feed posts go out between 3 and 6pm ET, when my followers are most active.
-
-## Why?
-
-Because I believe in the company I'm building. I believe there's a real need for a fitness and wellness marketplace. I believe there's no better platform for distribution than Instagram. And most importantly, I believe in myself.
-
-The longer version: I quit corporate America because I couldn't do it anymore. Not burnout exactly. I just knew I was never going to be happy building someone else's thing.
-
-Around the same time I fell hard for group fitness. The classes, the coaches, the community. I'd never been that happy in a room full of people. Especially post-COVID era.
-
-I have an IT background. I love tech. I kept looking for the thing that sat in the middle of both, and there wasn't one.
-
-Popcoach is an all-in-one solution for fitness and wellness entrepreneurs. Bookings, payments, clients, events. It's also the only consumer-facing fitness marketplace that exists to help people discover and book verified professionals.
-
-I'm building it with no team, no budget, and no developers. Just me.
-
-This is me proving I can build something on my own. 10,000 followers by December 31. Every coach and user has discovered Popcoach through my personal Instagram and I'm ready to scale.
-
-If you're a fitness or wellness professional running your own business, popcoach.io is for you. And if you're a consumer looking for fitness and wellness experiences, we've got you covered too. And if you're here for the growth stuff, please follow along too @mitchyinmotion!
 
 ## Daily log
 
