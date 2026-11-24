@@ -86,10 +86,9 @@ Carousels and feed posts go out between 3 and 6pm ET, when my followers are most
 
 Newest day on top. Each morning at 9am ET the previous day gets its row: the follower count that morning, what went out, what it did, and what I learned. Pace needed on Day 1 (Nov 23): 156 a day, recalculated each day as (10,000 minus followers) divided by days left.
 
-Day 1's row lands tomorrow morning.
-
 | Day | Date | Followers | Change | Needed per day now | What was posted | What we learned |
 |---|---|---|---|---|---|---|
+| 1 | Mon Nov 23 | 4,081 | +4 | 160 | Carousel (5 slides, keyword WINTER ARC); 2 trial reels (7 s): challenge hook, stat hook | Carousel: 2,136 views, 97% from followers, 34 comments (about 8 said winter arc), 64 likes, 0 saves, 0 shares, 1 follow. ManyChat went 3 to 10 sends, 9 clicks. Trial reel 1 (challenge): 195 views, all non-followers, 2 saves, 1 follow. Trial reel 2 (stat): 131 views, 2 likes, 0 follows. The carousel got conversation, not saves or sends, and reached almost no strangers. Trial reels had under 200 views each after 15 hours, so no hook verdict yet. Needed pace went from 156 to 160 a day. |
 
 ## Why?
 
